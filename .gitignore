@@ -1,0 +1,16 @@
+# ignore model and data files
+*.pth
+cache/
+
+# ignore plots
+*.pdf
+
+# ignore pre-complied code
+*.cpython-37.pyc
+__pycache__/
+*.py[cod]
+*.pyc
+.Rproj.user
+.DS_Store
+.RData
+.Rhistory
