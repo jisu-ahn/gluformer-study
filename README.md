@@ -1,6 +1,6 @@
 # Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification
 This is the official implementation of the paper "Gluformer: Transformer-Based Personalized Glucose Forecasting with Uncertainty Quantification" ([link](https://arxiv.org/abs/2209.04526)).
-
+And the original GitHub link for this code is ([here](https://github.com/mrsergazinov/gluformer)).
 ---
 
 Table of Contents:
